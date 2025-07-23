@@ -45,7 +45,7 @@ book-recommender-llm/
 ├── .env
 └── README.md
 
-References
+# References
 - freeCodeCamp
 - LangChain Documentation
 - OpenAI API Docs
